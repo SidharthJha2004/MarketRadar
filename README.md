@@ -1,4 +1,4 @@
-# StockWise — Smart Stock Portfolio Management System
+# MarketRadar — Smart Stock Portfolio Management System
 
 StockWise is a production-grade full-stack MERN (MongoDB, Express.js, React, Node.js) web application that enables users to securely track, analyze, and manage their stock investment portfolios in real-time.
 
